@@ -1,0 +1,23 @@
+from math import *
+print(2)
+print(2.40)
+print(-2.0)
+a = -2
+b = 3
+print (a + b)
+print (a - b)
+print (a/b)
+print (a * b)
+print(3 * 4 + 5)
+print(3 *(4 +5))
+print(20 % 3)
+print(abs(a))
+print(pow(2,3))
+print(max(5,7))
+print(min(4,5))
+print(round(3.7))
+print(round(3.3))
+print(round(3.5))
+print(floor(3.7))
+print(ceil(3.7))
+print(sqrt(64))
